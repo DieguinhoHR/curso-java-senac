@@ -1,3 +1,4 @@
+package br.com.curso.java.senac;
 import java.util.Scanner;
 
 public class Exercicio04 {
@@ -13,13 +14,13 @@ public class Exercicio04 {
 		System.out.print("Digite a quantidade de eleitores: ");		
 		quantidadeDeEleitores = scanner.nextDouble();
 		
-		System.out.print("Digite o número de votos em branco: ");		
+		System.out.print("Digite o nï¿½mero de votos em branco: ");		
 		numeroVotosEmBrancos = scanner.nextDouble();
 				
-		System.out.print("Digite o número de votos nulos: ");		
+		System.out.print("Digite o nï¿½mero de votos nulos: ");		
 		votosNulos = scanner.nextDouble();
 		
-		System.out.print("Digite o número de votos válidos: ");		
+		System.out.print("Digite o nï¿½mero de votos vï¿½lidos: ");		
 		votosValidos = scanner.nextDouble();
 		
 		double result = (quantidadeDeEleitores + numeroVotosEmBrancos + votosNulos + votosValidos) / 100;

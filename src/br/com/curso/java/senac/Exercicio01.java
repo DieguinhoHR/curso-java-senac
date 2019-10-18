@@ -1,3 +1,4 @@
+package br.com.curso.java.senac;
 import java.util.Scanner;
 
 public class Exercicio01 {
@@ -19,7 +20,7 @@ public class Exercicio01 {
 		
 		media = (nota1 + nota2) / 2;
 		
-		System.out.print("Média: " + media);
+		System.out.print("Mï¿½dia: " + media);
 	}
 
 }

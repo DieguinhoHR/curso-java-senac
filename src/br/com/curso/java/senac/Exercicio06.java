@@ -1,3 +1,4 @@
+package br.com.curso.java.senac;
 import java.util.Scanner;
 
 public class Exercicio06 {

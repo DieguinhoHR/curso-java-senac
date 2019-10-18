@@ -1,3 +1,4 @@
+package br.com.curso.java.senac;
 import java.util.Scanner;
 
 public class Exercicio05 {
@@ -11,7 +12,7 @@ public class Exercicio05 {
 		double acumulado = 0;
 		int quantidadeDeVendas;
 				
-		System.out.print("Informe o salário do vendedor: ");		
+		System.out.print("Informe o salï¿½rio do vendedor: ");		
 		salarioFixo = scanner.nextDouble();
 		
 		System.out.print("Informe a quantidade de vendas: ");		
